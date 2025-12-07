@@ -118,7 +118,7 @@ const Home = () => {
     {
       role: "Frontend Developer",
       date: "August 2024 - January 2025",
-      company: "Janage Cipher",
+      company: "Cipher Developers",
     },
     {
       role: "UI Designer",
